@@ -25,7 +25,6 @@ class SendMailL extends Mailable
      */
     public function build()
     {
-
         foreach ($this->data as $mail) {
             // code...
             $fromstatus = (!empty($mail->from_email)) ? true : false;

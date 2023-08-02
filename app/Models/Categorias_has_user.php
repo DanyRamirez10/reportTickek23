@@ -6,6 +6,4 @@ class Categorias_has_user extends Model
 {
     use HasFactory;
     public $timestamps = false;
-
- 
 }

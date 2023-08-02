@@ -1,0 +1,6 @@
+projectKey=reportTickek23
+serverUrl=http://localhost:9000
+serverVersion=9.9.1.69595
+dashboardUrl=http://localhost:9000/dashboard?id=reportTickek23
+ceTaskId=AYm38YfebSffIDu6MPBZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYm38YfebSffIDu6MPBZ
